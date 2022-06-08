@@ -32,7 +32,6 @@ code {
   flex-direction: column;
   align-items: center;
   overflow: hidden;
-  box-shadow: 0.5rem 0.5rem 2rem #464545, -0.5rem -0.5rem 2rem #acabab;
 }
 
 @media screen and (min-width: 510px) {
